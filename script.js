@@ -1,14 +1,11 @@
 const messages = [
     "wow ha...",
     "agay...",
-    "pweaseeee",
     "edi wag.",
-    "haha...",
     "JOKE LANG, PLSSS",
     "haha alam ko namang sidechick lang aq...",
     "k, sa gf ko nalang send",
     "love pls :<<<",
-    ":'<<<<",
     "last na talaga, please I LOVE YOUUUU"
 ];
 
